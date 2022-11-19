@@ -1,3 +1,23 @@
-.body{
-    color-interpolation-filters: auto;
+body{
+    background-color: #A4A8D1;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h1{
+    color: white;
+}
+
+.input{
+    width: 450px;
+    height: 50px;
+    margin: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 18px;
+    border: none;
 }
